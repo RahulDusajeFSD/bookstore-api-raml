@@ -1,0 +1,10 @@
+{
+  "main": "bookstore-api-raml.raml",
+  "name": "bookstore-api-raml",
+  "groupId": "cb6db609-4e03-4abe-861f-1d5bed908631",
+  "assetId": "bookstore-api-raml",
+  "version": "1.0.0",
+  "classifier": "raml",
+  "tags": [],
+  "descriptorVersion": "1.0.0"
+}
